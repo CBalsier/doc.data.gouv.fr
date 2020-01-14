@@ -38,7 +38,7 @@ Les données publiées sur data.gouv.fr ont vocation à être consultées et uti
 
 Les formats ouverts (CSV par exemple) sont pareils aux moteurs des vieilles voitures, dans le sens où un bon mécanicien peut y mettre les mains et facilement accéder à toutes les pièces qui composent le moteur : rien n’est verrouillé, tout est démontable. Par opposition, les formats propriétaires (XLS par exemple) ressemblent aux moteurs des voitures modernes, dans lesquels toutes les pièces sont cachées dans une boîte, elle même scellée, de sorte que seul un réparateur agréé peut intervenir sur le moteur.
 
-Pour chaque grand type de données, il existe un ou plusieurs format standard, communément accepté et recconu par les gens du métier. En voici un bref aperçu.
+Pour chaque grand type de données, il existe un ou plusieurs format(s) standard, communément accepté(s) et reconnu(s) par les gens du métier. En voici un bref aperçu.
 
 #### Données tabulaires
 
@@ -46,7 +46,7 @@ Les données tabulaires (feuilles de calcul), gagnent à être publiées sous la
 
 Quand vous créez votre fichier CSV, nous vous conseillons de :
 
-- inclure les noms des colonnes sur votre première, en les séparant par des virgules ;
+- inclure les noms des colonnes sur votre première ligne, en les séparant par des virgules ;
 - séparer chacune de vos valeurs par une virgule, comme s’il s’agissait de colonnes ;
 - encoder votre fichier en UTF-8 (Unicode) pour garantir un bon encodage des caractères accentués.
 
