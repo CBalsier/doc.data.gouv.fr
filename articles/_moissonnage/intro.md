@@ -113,7 +113,7 @@ Certaines limitations sont communes et détaillées ci-dessous.
 
 ### Correspondances des métadonnées
 
-Certains champs du modèle de data.gouv.fr possèdent un équivalent qui peut être sous-spécifis dans certains protocoles ou sur certaines plateformes, ou bien alors être spécifié différement, sur  plusieurs champs... Dans ce cas, la valeur du champ est récupérée en "best effort', c'est-à-dire qu'elle va être devinée en fonction des élements à disposition.
+Certains champs du modèle de data.gouv.fr possèdent un équivalent qui peut être sous-spécifié dans certains protocoles ou sur certaines plateformes, ou bien alors être spécifié différement, sur  plusieurs champs... Dans ce cas, la valeur du champ est récupérée en "best effort', c'est-à-dire qu'elle va être devinée en fonction des élements à disposition.
 Se référer à la page de chaque moissonneur pour savoir lesquels sont dans ce cas pour chaque implémentation.
 
 ### Suppression à la source
